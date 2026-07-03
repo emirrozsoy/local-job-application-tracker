@@ -11,6 +11,8 @@ storage/logs/*
 !storage/logs/.gitkeep
 storage/docker-config/
 storage/*.png
+linkedin-cover.png
+job-application-tracker-screenshot.png
 
 .DS_Store
 *.log

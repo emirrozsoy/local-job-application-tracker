@@ -1,0 +1,14 @@
+{
+    "name": "youragency/kktc-lead-automation",
+    "description": "Local job application tracking and outreach panel for healthcare roles.",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
